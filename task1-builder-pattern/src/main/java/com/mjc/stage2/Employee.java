@@ -106,7 +106,7 @@ public class Employee {
             return this;
         }
 
-        public EmployeeBuilder setCardNumber(String cardNumber) {
+        public EmployeeBuilder setCarNumber(String cardNumber) {
             employee.carNumber = cardNumber;
             return this;
         }
